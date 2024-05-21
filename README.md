@@ -19,6 +19,8 @@
   <img align='center' alt="Igor-ar" height='30' width='30' src ='https://img.icons8.com/?size=100&id=13444&format=png&color=000000'>
   <img align='center' alt="Igor-git" height='30' width='30' src ='https://img.icons8.com/?size=100&id=20906&format=png&color=000000'>
   <img align='center' alt="Igor-gh" height='30' width='30' src ='https://img.icons8.com/?size=100&id=62856&format=png&color=000000'>
+  <img align='center' alt="Igor-expo" height='30' width='30' src ='https://img.icons8.com/?size=100&id=7ImWFDcPfSlz&format=png&color=000000'>
+  
 </div>
 <br>
 
