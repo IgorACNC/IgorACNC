@@ -3,7 +3,7 @@
 - 🎓 Estou me graduando em Ciência da Computação.
 - 🌱 Estudando C.
 
-## 💻 Linguagens de programação
+## 🛠️ Ferramentas
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,8 +12,6 @@
   
 </div>
 <br>
-
-## 🛠️ Ferramentas
 <div>
   <img align='center' alt="Igor-VS" height='30' width='30' src ='https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000'>
   <img align='center' alt="Igor-ar" height='30' width='30' src ='https://img.icons8.com/?size=100&id=13444&format=png&color=000000'>
