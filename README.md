@@ -1,7 +1,6 @@
 ## Olá pessoal, me chamo Igor 👋
 
 - 🎓 Estou me graduando em Ciência da Computação.
-- 🌱 Estudando C.
 
 ## 🛠️ Ferramentas
 <div style="display: inline_block"><br>
