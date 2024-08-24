@@ -8,6 +8,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Igor-C", height="30", width="40" src="https://lh6.googleusercontent.com/proxy/aFelwGbPlotVVa-LjaVPG7QaMTtsZV8bK0VQvtQVhs-gYAAmP7Ks6EEriouNbzGKkIB2jydb0tj7NOzTLUOyyHLtKdkoQ5WHJ5UjjTcgSKm3-IRQ1xX0fQ">
   
 </div>
 <br>
