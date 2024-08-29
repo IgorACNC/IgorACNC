@@ -1,29 +1,75 @@
-## Olá pessoal, me chamo Igor 👋
+<h1 align="center">Hello, World!</h1>
 
-- 🎓 Estou me graduando em Ciência da Computação.
+###
 
-## 🛠️ Ferramentas
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Igor-C", height="30", width="40" src="https://lh6.googleusercontent.com/proxy/aFelwGbPlotVVa-LjaVPG7QaMTtsZV8bK0VQvtQVhs-gYAAmP7Ks6EEriouNbzGKkIB2jydb0tj7NOzTLUOyyHLtKdkoQ5WHJ5UjjTcgSKm3-IRQ1xX0fQ">
-  
-</div>
-<br>
-<div>
-  <img align='center' alt="Igor-VS" height='30' width='30' src ='https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000'>
-  <img align='center' alt="Igor-ar" height='30' width='30' src ='https://img.icons8.com/?size=100&id=13444&format=png&color=000000'>
-  <img align='center' alt="Igor-git" height='30' width='30' src ='https://img.icons8.com/?size=100&id=20906&format=png&color=000000'>
-  <img align='center' alt="Igor-gh" height='30' width='30' src ='https://img.icons8.com/?size=100&id=62856&format=png&color=000000'>
-  <img align='center' alt="Igor-expo" height='30' width='30' src ='https://img.icons8.com/?size=100&id=7ImWFDcPfSlz&format=png&color=000000'>
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
-<br>
+<p align="left">Hi, I'm Igor, a student passionate about technology mainly in the area of ​​security and AI.</p>
 
-## 📱 Contatos
-<div> 
-  <a href="https://www.instagram.com/igorcoutoo_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/igor-andrade-3520b1303/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">🔭I'm looking for projects and jobs in the technology area<br>📚 I'm currently learning AWS and django</p>
+
+###
+
+<h2 align="left">I code in</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
 </div>
+
+###
+
+<h2 align="left">Tools and frameworks</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+
+###
+
+<h2 align="left">My stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IgorACNC&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IgorACNC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h2 align="left">Contacts</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/igor-andrade-3520b1303/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/igorcoutoo_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
