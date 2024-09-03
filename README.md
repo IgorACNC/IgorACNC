@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭I'm looking for projects and jobs in the technology area<br>📚 I'm currently learning AWS and django</p>
+<p align="left">🔭I'm looking for projects and jobs in the technology area<br>📚 I'm currently learning django</p>
 
 ###
 
