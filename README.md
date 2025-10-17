@@ -73,7 +73,7 @@
 
 ###
 
-![snake gif](https://github.com/IgorACNC/IgorACNC/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/IgorACNC/IgorACNC/output/snake.svg" alt="Snake animation" />
 
 ###
 
