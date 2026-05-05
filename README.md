@@ -17,16 +17,7 @@
 ###
 
 
-<div align="center">
-  <img height="230" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTV6cWd6MGc1aWpxeXp0ZjdrbmdsNzg4NWI0dzcxZDc2Z29iY3Y2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N3yLGQ1oMYfGU/giphy.gif"  />
-</div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IgorACNC&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IgorACNC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="140" alt="languages graph"  />
-</div>
 
 ###
 
@@ -94,11 +85,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgorACNC/IgorACNC/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgorACNC/IgorACNC/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/IgorACNC/IgorACNC/output/github-snake.svg" />
-</picture>
+
 
 ###
 
