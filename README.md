@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🔭I'm looking for jobs in the technology area<br>📚 I'm currently learning data analysis and visualization with python</p>
+<p>📚 I'm currently learning data analysis and visualization with python</p>
 
 ###
 
